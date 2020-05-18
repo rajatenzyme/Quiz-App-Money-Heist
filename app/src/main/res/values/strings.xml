@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Test Your Brain</string>
+    <string name="question_1">1. Inspector Raquel’s mother suffers from what medical condition?</string>
+    <string name="question_2">2. Raquel’s mother had other children besides her. How many siblings does Raquel have?</string>
+    <string name="question_3">3. Netflix OTT Platform can be played on?</string>
+    <string name="question_4">4. Money Heist Web Series is first hosted on which OTT Platform?</string>
+    <string name="question_5">5. Before giving up on society and turning to a life of crime, what was Moscow’s occupation?</string>
+    <string name="question_6">6. Name of this Money Heist Character?</string>
+    <string name="question_7">7. Name of this handsome guy:</string>
+    <string name="alzheimer_s_disease">Alzheimer’s Disease</string>
+    <string name="paranoid_schizophrenia">Paranoid Schizophrenia</string>
+    <string name="post_traumatic_stress_disorder">Post-Traumatic Stress Disorder</string>
+    <string name="_2">2</string>
+    <string name="_4">4</string>
+    <string name="android">Android</string>
+    <string name="smart_tv">Smart TV</string>
+    <string name="web_browser">Web Browser</string>
+    <string name="hacker">Hacker</string>
+    <string name="miner">Miner</string>
+    <string name="soldier">Soldier</string>
+    <string name="submit">Submit</string>
+    <string name="popu">Most popular</string>
+    <string name="quiz_time">Quiz Time</string>
+    <string name="_3">3</string>
+</resources>
